@@ -54,5 +54,10 @@ namespace Sistema_de_Inventario
             Ventas form = new Ventas();
             form.Show();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

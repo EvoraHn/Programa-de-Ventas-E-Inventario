@@ -47,9 +47,9 @@
             this.label1.BackColor = System.Drawing.Color.AliceBlue;
             this.label1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.label1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.label1.Location = new System.Drawing.Point(-1, 117);
+            this.label1.Location = new System.Drawing.Point(2, 117);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(1137, 592);
+            this.label1.Size = new System.Drawing.Size(1137, 596);
             this.label1.TabIndex = 0;
             // 
             // button1
@@ -61,9 +61,9 @@
             this.button1.FlatAppearance.BorderSize = 3;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(377, 715);
+            this.button1.Location = new System.Drawing.Point(403, 716);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(431, 44);
+            this.button1.Size = new System.Drawing.Size(437, 43);
             this.button1.TabIndex = 2;
             this.button1.Text = "Ver reporte de Compras";
             this.button1.UseVisualStyleBackColor = false;
@@ -78,7 +78,7 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(825, 592);
+            this.dataGridView1.Size = new System.Drawing.Size(841, 596);
             this.dataGridView1.TabIndex = 3;
             // 
             // pictureBox2
@@ -95,7 +95,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::Sistema_de_Inventario.Properties.Resources.Compras;
+            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
             this.pictureBox3.Location = new System.Drawing.Point(2, 1);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(509, 116);
@@ -123,7 +123,7 @@
             this.ResumeLayout(false);
 
         }
-
+        //Inicializate componets de Ventas 23 02 2020 
         #endregion
 
         private System.Windows.Forms.Label label1;

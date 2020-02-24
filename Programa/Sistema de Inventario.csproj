@@ -58,12 +58,6 @@
     <Compile Include="Compras.Designer.cs">
       <DependentUpon>Compras.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
     <Compile Include="Inventario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,8 +70,19 @@
     <Compile Include="Menu.Designer.cs">
       <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
+    <Compile Include="Producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Producto.Designer.cs">
+      <DependentUpon>Producto.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Proveedores.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -96,25 +101,20 @@
     <EmbeddedResource Include="Compras.resx">
       <DependentUpon>Compras.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Inventario.resx">
       <DependentUpon>Inventario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Producto.resx">
+      <DependentUpon>Producto.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <EmbeddedResource Include="Proveedores.resx">
       <DependentUpon>Proveedores.cs</DependentUpon>
     </EmbeddedResource>
@@ -134,32 +134,42 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\Users-Exit-icon1.png" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Rectangulo.png" />
     <None Include="Resources\Circulo.png" />
     <None Include="Resources\21026.png" />
+    <None Include="Resources\backend.png" />
+    <None Include="Resources\buscar.png" />
     <None Include="Resources\Compras.png" />
-    <Content Include="Resources\cruzar.png" />
-    <Content Include="Resources\dejar.png" />
-    <Content Include="Resources\en-espera.png" />
-    <None Include="Resources\lanzadera.png" />
-    <None Include="Resources\Users-Exit-icon.png" />
+    <None Include="Resources\cruzar.png" />
+    <None Include="Resources\dejar.png" />
     <None Include="Resources\ventas1.png" />
     <None Include="Resources\rebaja1.png" />
     <None Include="Resources\en-espera1.png" />
-    <Content Include="Resources\estante.png" />
+    <None Include="Resources\en-espera.png" />
     <None Include="Resources\estante1.png" />
-    <None Include="Resources\Linventario.png" />
+    <None Include="Resources\estante.png" />
+    <None Include="Resources\lanzadera.png" />
     <None Include="Resources\Lcategoria.png" />
-    <Content Include="Resources\mas.png" />
+    <None Include="Resources\Linventario.png" />
+    <None Include="Resources\LProducto.png" />
+    <None Include="Resources\LProductos.png" />
+    <None Include="Resources\mas.png" />
     <None Include="Resources\montufar.png" />
     <None Include="Resources\montufar1.png" />
-    <Content Include="Resources\proveedor.png" />
-    <Content Include="Resources\rebaja.png" />
+    <None Include="Resources\producto-png-3.png" />
+    <None Include="Resources\proveedor.png" />
+    <None Include="Resources\rebaja.png" />
+    <None Include="Resources\Users-Exit-icon.png" />
+    <None Include="Resources\ventas %282%29.png" />
     <None Include="Resources\Ventas.png" />
-    <Content Include="Resources\video.png" />
     <None Include="Resources\ELITE DESIGNER.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\video.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
