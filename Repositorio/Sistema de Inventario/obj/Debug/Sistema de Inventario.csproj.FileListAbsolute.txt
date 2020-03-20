@@ -43,3 +43,18 @@ C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\obj\Debug\Sistema_de_I
 C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
 C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
 C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojAssemblyReference.cache
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Categoria.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Menu.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Producto.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.cache
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
